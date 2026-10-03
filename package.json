@@ -1,0 +1,9 @@
+{
+  "name": "slope-ready",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Ski-season meal prep, macros and training planner. Static, no build step.",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}
